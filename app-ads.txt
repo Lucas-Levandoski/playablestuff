@@ -1,0 +1,5 @@
+# app-ads.txt for PlayableStuff
+# Paste the lines from the LevelPlay dashboard here (LevelPlay -> Setup -> app-ads.txt),
+# including the Unity Ads line with your Unity Ads publisher ID. Remove these comments' placeholder
+# note once the real lines are in. This file must be served from the ROOT of the domain
+# you enter as "Website" in Google Play Console, e.g. https://playablestuff.com/app-ads.txt
